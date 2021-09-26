@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "produto-ws",
+			"path": "produto-ws"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "venda-ws",
+			"path": "venda-ws"
+		}
+	]
+}
